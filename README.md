@@ -18,7 +18,7 @@ Please see mockup and screenshots below for a visual overview of the template ac
 
 ### Mobile Preview
 
-![Mobile](img/screenshots-mobile.jpeg)
+![Mobile](img/screenshot-mobile.jpeg)
 
 ### Tablet Preview
 
